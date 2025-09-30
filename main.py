@@ -287,7 +287,7 @@ def get_calculator():
 calc = get_calculator()
 
 # App Title
-st.title("🚀 Compressible Flow Calculator")
+st.title(" Compressible Flow Calculator")
 st.markdown("---")
 
 # Sidebar for settings
