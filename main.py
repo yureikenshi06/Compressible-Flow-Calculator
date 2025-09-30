@@ -8,7 +8,7 @@ import pandas as pd
 # Set page configuration
 st.set_page_config(
     page_title="Compressible Flow Calculator",
-    page_icon="🚀",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -303,11 +303,11 @@ st.sidebar.markdown("- CO₂: γ = 1.3")
 
 # Main content tabs
 tab1, tab2, tab3, tab4, tab5 = st.tabs([
-    "📈 Isentropic Flow",
-    "⭐ A* Calculator",
-    "💨 Prandtl-Meyer",
-    "💥 Normal Shock",
-    "📐 Oblique Shock",
+    " Isentropic Flow",
+    " A* Calculator",
+    " Prandtl-Meyer",
+    " Normal Shock",
+    " Oblique Shock",
 
 ])
 
